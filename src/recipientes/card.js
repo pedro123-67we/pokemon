@@ -1,5 +1,6 @@
 import React from "react";
 import {InfoPokemon} from './card-de-pokemon';
+import './estilo-card.css'
 
 
 export const Cards = ({results}) =>{
